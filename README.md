@@ -1,1 +1,1 @@
-# Heterogeneous_Detector
+# Towards Adaptive Subspace Detection in Heterogeneous Environment
