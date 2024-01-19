@@ -13,12 +13,12 @@ If you found this page helpful, please cite the following survey papers:
 
 ```
 @article{rekavandi2021robust,
-  title={Robust subspace detectors based on $\alpha$-divergence with application to detection in imaging},
-  author={Rekavandi, Aref Miri and Seghouane, Abd-Krim and Evans, Robin J},
-  journal={IEEE Transactions on Image Processing},
+  title={Towards Adaptive Subspace Detection in Heterogeneous Environment},
+  author={Miri Rekavandi, Aref},
+  journal={arXiv},
   volume={30},
-  pages={5017--5031},
-  year={2021},
-  publisher={IEEE}
+  pages={1--8},
+  year={2024},
+  publisher={arXiv}
 }
 ```
