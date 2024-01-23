@@ -11,7 +11,7 @@ The detection results (ROC) of the proposed method vs AMF (with known covariance
 ![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/7e996e74-f95b-42a6-9347-0c239a07547e)
 
 ## Citations
-If you found this page helpful, please cite the following survey papers:
+If you found this GitHub page helpful, please cite the following paper:
 
 ```
 @article{rekavandi2024towards,
