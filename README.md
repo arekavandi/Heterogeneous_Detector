@@ -7,7 +7,7 @@ This GitHub repository was made to present the results of a two-step adaptive ma
 + Run the file "Main.m" for synthetic experiments.
 
 ## Results
-The detection results (ROC) of the proposed method vs AMF (with known covariance and estimated covariance) in different environments (HE,PHE,HET):
+The detection results (ROC) of the proposed method (red curve) vs AMF (with known covariance and estimated covariance) in different environments (HE,PHE, and HET):
 ![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/7e996e74-f95b-42a6-9347-0c239a07547e)
 
 ## Citations
