@@ -7,6 +7,8 @@ This GitHub repository was made to present the results of an adaptive matched fi
 + Run the file "Main.m" for synthetic experiments.
 
 ## Results
+The detection results (ROC) of the proposed method vs AMF (with known covariance and estimated covariance) in different environments (HE,PHE,HET):
+![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/7e996e74-f95b-42a6-9347-0c239a07547e)
 
 ## Citations
 If you found this page helpful, please cite the following survey papers:
