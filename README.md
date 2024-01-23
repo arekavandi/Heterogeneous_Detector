@@ -12,7 +12,7 @@ This GitHub repository was made to present the results of an adaptive matched fi
 If you found this page helpful, please cite the following survey papers:
 
 ```
-@article{rekavandi2024robust,
+@article{rekavandi2024towards,
   title={Towards Adaptive Subspace Detection in Heterogeneous Environment},
   author={Miri Rekavandi, Aref},
   journal={arXiv},
