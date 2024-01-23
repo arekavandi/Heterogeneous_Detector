@@ -18,7 +18,7 @@ If you found this GitHub page helpful, please cite the following paper:
   title={Towards Adaptive Subspace Detection in Heterogeneous Environment},
   author={Miri Rekavandi, Aref},
   journal={arXiv},
-  volume={30},
+  volume={},
   pages={1--8},
   year={2024},
   publisher={arXiv}
