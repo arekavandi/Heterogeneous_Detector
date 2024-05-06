@@ -1,5 +1,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2306.04670-b31b1b.svg)](https://arxiv.org/abs/2401.12469)
-# Towards Adaptive Subspace Detection in Heterogeneous Environment
+# Towards Adaptive Subspace Detection in Heterogeneous Environments
 
 This GitHub repository was made to present the results of a two-step adaptive matched filter detector designed for a heterogeneous environment where the test data noise covariance may differ from the secondary set covariance in structure. In particular we use the model $\textbf{y}={\textbf{H}{\theta}}+{\textbf{B}\{\phi}}+\boldsymbol\xi$, where the hypothesis testing problem is a decision between ${\mathcal{H}_0}:
 \textbf{y}=\textbf{B}{\phi}+{\xi} \sim \mathcal{C}\mathcal{N}(\textbf{B}{\phi},\sigma^2\textbf{R})$ with $\textbf{y}_k=\textbf{n}_k \sim \mathcal{C}\mathcal{N}(\textbf{0},\sigma^2_k\textbf{R}_s), k=1,\cdots,K$ and ${\mathcal{H}_1}:\textbf{y}=\textbf{H}{\theta}+\textbf{B}{\phi}+{\xi} \sim \mathcal{C}\mathcal{N}(\textbf{H}{\theta}+\textbf{B}{\phi},\sigma^2\textbf{R})$ with $\textbf{y}_k=\textbf{n}_k \sim \mathcal{C}\mathcal{N}(\textbf{0},\sigma^2_k\textbf{R}_s), k=1,\cdots,K$.
