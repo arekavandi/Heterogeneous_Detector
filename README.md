@@ -9,7 +9,8 @@ This GitHub repository was made to present the results of a two-step adaptive ma
 
 ## Results
 The detection results (ROC) of the proposed method (red curve) vs AMF (with known covariance and estimated covariance) in different environments (HE,PHE, and HET):
-![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/7e996e74-f95b-42a6-9347-0c239a07547e)
+![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/97df69d9-6a0b-4678-8c69-ad11637975cb)
+
 
 ## Citations
 If you found this GitHub page helpful, please cite the following paper:
