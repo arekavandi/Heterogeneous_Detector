@@ -8,8 +8,9 @@ This GitHub repository was made to present the results of a two-step adaptive ma
 + Run the file "Main_new.m" for synthetic experiments.
 
 ## Results
-The detection results (ROC) of the proposed method (red curve) vs AMF (with known covariance and estimated covariance) in different environments (HE,PHE, and HET):
-![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/97df69d9-6a0b-4678-8c69-ad11637975cb)
+The detection results (ROC) of the proposed method (dashed black curve) vs AMF (with known covariance and estimated covariance) and ASD in different environments (HE,PHE, and HET):
+![image](https://github.com/arekavandi/Heterogeneous_Detector/assets/101369948/65b37abd-a5e7-44ab-adb3-04a37a763a07)
+
 
 
 ## Citations
